@@ -1,7 +1,7 @@
 # Personal-Curriculum
 
-Courses Taken : 
-Coursera >
+Courses Taken :   
+Coursera >  
 **1. Robotics : Mobility ** 
 Course Link-https://www.coursera.org/learn/robotics-mobility/  
 Certificate-https://coursera.org/share/b813410fa3cc222c3eda41021389eed9  
