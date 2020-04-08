@@ -28,3 +28,12 @@ Summary >
    * Fun- Good for the morale, not very efficient
    * Deliberate- Efficient, not very fun
    Blending fun practise with deliberate practise gives the best results- accelerating your progress maintainin high levels of              motivation
+4. Self-diagnosis to pin point the problem in your technique. Change one thing in your technique at a time to isolate the problem and      see the results.
+
+**Pushing through the dip**
+1. Acknowledge that you are in the dip (frustration phase- no progress) and accept its inevitability
+2. Deliberate scheduled practise is key. Keep on practising regardless of whether you feel like it or not
+3. Shift slightly to the 'Fun' kind of practise during this phase
+4. Use shorter practise sessions
+5. If it's a skill that involves physical engagement, taking a few days off might boost your morale
+6. Split the skill further into component parts. Little successes can overshadow the overwhelm.
