@@ -37,3 +37,9 @@ Summary >
 4. Use shorter practise sessions
 5. If it's a skill that involves physical engagement, taking a few days off might boost your morale
 6. Split the skill further into component parts. Little successes can overshadow the overwhelm.
+
+**Success : Setting and refining goals**
+1. Set a clear goal.
+2. Do not set goals that are either way too easy to be worthless or either way too ambitious to be unachievable
+3. Redefine your goals as you progress or see intricacies of the process.
+4. Aim is to maximize your enjoyment when learning a new skill.
