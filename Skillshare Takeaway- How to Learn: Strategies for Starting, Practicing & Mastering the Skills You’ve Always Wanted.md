@@ -24,4 +24,7 @@ Summary >
 1. Squeeze in time during your day without modifying your routine dramatically, e.g. place a rubik's cube   
    on your desk so you have easy access to it at all times
 2. Utilize the pomodoro technique
-3. 
+3. There are two kinds of practise
+   * Fun- Good for the morale, not very efficient
+   * Deliberate- Efficient, not very fun
+   Blending fun practise with deliberate practise gives the best results- accelerating your progress maintainin high levels of              motivation
