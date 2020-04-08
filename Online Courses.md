@@ -14,3 +14,6 @@ NPTEL >
 Coursera >
 **1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**
 Course link-https://www.coursera.org/learn/introduction-tensorflow
+Skillshare > 
+**1. Building Online Social Networks**
+Course link-https://skl.sh/2RoJ2gh
