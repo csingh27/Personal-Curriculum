@@ -11,7 +11,7 @@ Certificate-https://coursera.org/share/246fddb02dde9c4b3eeba10fe6f8663f
 NPTEL >  
 **1. Mechanisms and Robot Kinematics**  
 ## Courses taking currently :
-Coursera >
+Coursera >  
 **1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**
 Course link-https://www.coursera.org/learn/introduction-tensorflow  
 Skillshare >  
