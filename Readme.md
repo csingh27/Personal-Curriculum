@@ -16,5 +16,5 @@ Coursera >
 Course link-https://www.coursera.org/learn/introduction-tensorflow  
 Skillshare >  
 **1. How to Learn: Strategies for Starting, Practicing & Mastering the Skills You’ve Always Wanted**  
-Course link-https://skl.sh/2xYtnO0
-Takeaway-
+Course link-https://skl.sh/2xYtnO0  
+Takeaway-  
