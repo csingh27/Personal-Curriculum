@@ -10,6 +10,6 @@ Summary>
   *Respository*- A collection of commits for a given project  
   *Local Repository*- A copy of a repository that exists on your machine  
   *Remote Repository*- A copy o a repository that exists on a remote server  
-* **GitHUb**- A cloud-based SAAS platform for hosting remote git repositories
+* **GitHub**- A cloud-based SAAS platform for hosting remote git repositories
 
 
