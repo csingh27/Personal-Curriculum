@@ -1,5 +1,6 @@
 **Installation**   
-sudo apt-get install git  
+
+1. Type *sudo apt-get install git* on the terminal  
 
 **Initialize**  
 
