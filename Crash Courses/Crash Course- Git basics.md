@@ -41,23 +41,36 @@ E.g. *touch index.html* and *touch app.js*
 8. Check status. No untracked files.
 *git status*
 
-***Commit files from the staging area to git***
+***Commit files from the staging area to git***  
 
-1. *git commit*
-2. *initial commit*  
-exit  
-edit a file   
-git status  
-git add .  
-git commit -m "changed app.js"  
-touch .gitignore  
-touch log.txt  
-add the file name (or * .txt if you want all text files to be ignored) that you do not want to be included in git to .gitignore   file  
-create a directory with new file  
-if you dont want a directory to be included add /dir2 to the .gitignore file  
-git branch mybranch to create a branch  
-to switch branches, git checkout mybranch  
-git merge mybranch  
+1. *git commit* or *git commit -m "changed app.js"* where "..." is a comment on the commit
+2. Type *initial commit* in the text file that opens in the terminal and exit  
+3. Check the status using *git status*  
+It should display :  
+*On branch master  
+nothing to commit, working directory clean*  
+
+***Ignore commit of specific files in the Git directory***  
+1. Add .gitignore file   
+*touch .gitignore*  
+2. Add a txt file  
+*touch log.txt*  
+3. Add the file name  that you do not want to be included in Git to .gitignore file  
+(or * .txt if you want all text files to be ignored)  
+4. *git add . *  
+5. Create a new directory *mkdir dir2*  
+6. Add /dir2 to the .gitignore file if you do not want it to be included  
+Note that .gitignore file would be hidden. So to edit it, you would need to 'Show hidden files'  
+
+***Create a branch***  
+1. Type *git branch mybranch* to create a branch 
+2. Switch branches using *checkout* command  
+*git checkout mybranch*  
+To create a new branch and switch to it at the same time use *-b* (=branch+checkout)  
+*git checkout -b mybranch*  
+3. Work on a branch separately, make changes to the code, test it and merge when it is functional
+*git merge mybranch*  
+4. 
 create new repository  
 create new folder in repository   
 move file from one repository  
