@@ -15,12 +15,12 @@ Coursera >
 **1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**
 Course link-https://www.coursera.org/learn/introduction-tensorflow  
 Skillshare >  
-**1. How to Learn: Strategies for Starting, Practicing & Mastering the Skills You’ve Always Wanted**  
+**2. How to Learn: Strategies for Starting, Practicing & Mastering the Skills You’ve Always Wanted**  
 Course link-https://skl.sh/2xYtnO0  
 Takeaway-  
-**2. Launch Your Websites with Github Pages**  
-Course link-https://skl.sh/2V2xMIz
-Takeaway- 
+**3. Launch Your Websites with Github Pages**  
+Course link-https://skl.sh/2V2xMIz  
+Takeaway-   
 
 ## Crash courses :
 **1. GitHub basics**
