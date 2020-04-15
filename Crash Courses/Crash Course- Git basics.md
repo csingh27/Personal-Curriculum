@@ -6,9 +6,11 @@
 
 *Turn an existing directory on your system to Git directory*   
 1. Navigate to a directory in your system. E.g. GitHub  
-2. Open terminal inside the directory 'GitHub' and type *git init*   
-touch index.html  
-touch app.js  
+2. Open terminal inside the directory 'GitHub' and type *git init* 
+3. Create empty files in the directory using *touch* command  
+E.g. *touch index.html*  
+E.g. *touch app.js*  
+
 **Configuration**    
 git config --global user.name "csingh27"  
 git config --global user.email "singhchandandeep34@gmail.com"  
