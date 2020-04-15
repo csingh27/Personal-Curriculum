@@ -1,17 +1,17 @@
 **Installation**   
 
-*Installation of Git on Ubuntu 16.04*
+***Installation of Git on Ubuntu 16.04***
 1. Type *sudo apt-get install git* on the terminal  
 
 **Initialize**  
 
-*Turn an existing directory on your system to Git directory*   
+***Turn an existing directory on your system to Git directory***   
 1. Navigate to a directory in your system. E.g. GitHub  
 2. Open terminal inside the directory 'GitHub' and type *git init*  
 
 **Configuration** 
 
-*Configure your Git account*
+***Configure your Git account***
 1. Configure your git using *git config* command  
 E.g.  
 *git config --global user.name "csingh27"*  
@@ -19,19 +19,32 @@ E.g.
 
 **Add files to Git**  
 
-1. Create empty files in the directory using *touch* command  
+***Create files in the directory***
+1. Create empty files index.html and app.js in the directory using *touch* command  
 E.g. *touch index.html* and *touch app.js*  
 
-*Add files to git staging area*  
-1. *git add index.html*  
-2. *git status*  
-3. *git rm --cached index.html*    
-4. *git status*  
-5. *git add * .html* 
-**Add all files**  
-git add .  
-git commit  
-initial commit  
+***Add files to git staging area***  
+1. Add index.html file to the staging area
+*git add index.html*  
+2. Check the status of the *add* operation. It will show app.js as untracked files in red. 
+*git status*  
+3. Remove the file index.html from the staging area. .
+*git rm --cached index.html*    
+4. It will show app.js and index.html as untracked files
+*git status*  
+5. Add all html files at once.
+*git add * .html* 
+6. Check the status.
+*git status*  
+7. Add all files at once.
+*git add .*  
+8. Check status. No untracked files.
+*git status*
+
+***Commit files from the staging area to git***
+
+1. *git commit*
+2. *initial commit*  
 exit  
 edit a file   
 git status  
