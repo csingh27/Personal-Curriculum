@@ -1,9 +1,11 @@
 **Installation**   
-sudo apt-get install git  
-**Initialize**   
+sudo apt-get install git
+**
+**Initialize** 
+* Turn an existing directory on your system to Git directory
+git init  
 touch index.html  
 touch app.js  
-git init  
 **Configuration**    
 git config --global user.name "csingh27"  
 git config --global user.email "singhchandandeep34@gmail.com"  
