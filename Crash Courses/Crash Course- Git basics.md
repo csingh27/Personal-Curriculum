@@ -15,8 +15,8 @@ E.g. *touch app.js*
 **Configuration** 
 
 *Configure your Git account*
-1. Configure your git using *git config* command
-E.g. git config --global user.name "csingh27"    
+1. Configure your git using *git config* command  
+E.g. git config --global user.name "csingh27"  
      git config --global user.email "s----------5@gmail.com"  
 **Add files to git staging area**  
 git add index.html  
