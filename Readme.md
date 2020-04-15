@@ -23,4 +23,4 @@ Course link-https://skl.sh/2V2xMIz
 Takeaway- 
 
 ## Crash courses :
-**1. GitHub basics
+**1. GitHub basics**
