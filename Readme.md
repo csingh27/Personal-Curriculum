@@ -21,3 +21,6 @@ Takeaway-
 **2. Launch Your Websites with Github Pages**  
 Course link-https://skl.sh/2V2xMIz
 Takeaway- 
+
+## Crash courses :
+**1. GitHub basics
