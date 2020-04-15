@@ -7,10 +7,7 @@
 
 *Turn an existing directory on your system to Git directory*   
 1. Navigate to a directory in your system. E.g. GitHub  
-2. Open terminal inside the directory 'GitHub' and type *git init* 
-3. Create empty files in the directory using *touch* command  
-E.g. *touch index.html*  
-E.g. *touch app.js*  
+2. Open terminal inside the directory 'GitHub' and type *git init*  
 
 **Configuration** 
 
@@ -20,13 +17,17 @@ E.g.
 *git config --global user.name "csingh27"*  
 *git config --global user.email "s----------5@gmail.com"* 
 
-**Add files**
+**Add files to Git**  
+
+1. Create empty files in the directory using *touch* command  
+E.g. *touch index.html* and *touch app.js*  
+
 *Add files to git staging area*  
 1. *git add index.html*  
-2. *git status*    
-git rm --cached index.html  
-git status  
-git add * .html 
+2. *git status*  
+3. *git rm --cached index.html*    
+4. *git status*  
+5. *git add * .html* 
 **Add all files**  
 git add .  
 git commit  
