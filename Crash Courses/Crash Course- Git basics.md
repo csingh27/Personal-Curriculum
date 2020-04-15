@@ -18,10 +18,12 @@ E.g. *touch app.js*
 1. Configure your git using *git config* command  
 E.g.  
 *git config --global user.name "csingh27"*  
-*git config --global user.email "s----------5@gmail.com"*  
-**Add files to git staging area**  
-git add index.html  
-git status  
+*git config --global user.email "s----------5@gmail.com"* 
+
+**Add files**
+*Add files to git staging area*  
+1. *git add index.html*  
+2. *git status*    
 git rm --cached index.html  
 git status  
 git add * .html 
