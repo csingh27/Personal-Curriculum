@@ -1,4 +1,4 @@
-**Installationb **   
+**Installation**   
 
 *Installation of Git on Ubuntu 16.04*
 1. Type *sudo apt-get install git* on the terminal  
@@ -17,7 +17,7 @@ E.g. *touch app.js*
 *Configure your Git account*
 1. Configure your git using *git config* command  
 E.g. git config --global user.name "csingh27"  
-     git config --global user.email "s----------5@gmail.com"  
+       git config --global user.email "s----------5@gmail.com"  
 **Add files to git staging area**  
 git add index.html  
 git status  
