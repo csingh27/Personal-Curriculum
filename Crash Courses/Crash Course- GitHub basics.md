@@ -2,7 +2,7 @@
 sudo apt-get install git
 **
 **Initialize** 
-* Turn an existing directory on your system to Git directory
+* Turn an existing directory on your system to Git directory  
 git init  
 touch index.html  
 touch app.js  
