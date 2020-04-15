@@ -1,9 +1,10 @@
 **Installation**   
 sudo apt-get install git  
+
 **Initialize**  
-_Turn an existing directory on your system to Git directory_ 
+__Turn an existing directory on your system to Git directory__   
 1. Navigate to a directory in your system. E.g. GitHub  
-2. Open terminal inside the directory 'GitHub' and type git init  
+2. Open terminal inside the directory 'GitHub' and type *git init*   
 touch index.html  
 touch app.js  
 **Configuration**    
