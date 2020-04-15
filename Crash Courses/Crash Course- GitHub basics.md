@@ -1,6 +1,5 @@
 **Installation**   
-sudo apt-get install git
-**
+sudo apt-get install git  
 **Initialize**  
 __Turn an existing directory on your system to Git directory__ 
 1. Navigate to a directory in your system. E.g. GitHub  
