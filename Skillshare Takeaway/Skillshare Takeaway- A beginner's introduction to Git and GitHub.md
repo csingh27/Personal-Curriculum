@@ -12,6 +12,7 @@ Summary>
 * Type *git-scm.com* in the browser
 * Download the *.exe* file and install
 * Launch *GitBash* to use  
+
 **Introduction to Command Line**  
 *CLI* : Command Line Interface- faster and more efficient   
 *GUI* : Graphic User Interface  
