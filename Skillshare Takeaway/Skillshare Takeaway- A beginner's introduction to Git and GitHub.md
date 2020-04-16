@@ -3,6 +3,7 @@ Skillshare>
 Summary>  
 
 **Setting Up Git**  
+
 *Mac* : 
 * Git is pre-installed
 * Type *git --version* in terminal to check the version installed
