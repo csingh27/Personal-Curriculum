@@ -10,14 +10,16 @@ Course link-https://www.coursera.org/learn/machine-learning
 Certificate-https://coursera.org/share/246fddb02dde9c4b3eeba10fe6f8663f  
 NPTEL >  
 **1. Mechanisms and Robot Kinematics**  
+Skillshare>  
+**2. How to Learn: Strategies for Starting, Practicing & Mastering the Skills You’ve Always Wanted**  
+Course link-https://skl.sh/2xYtnO0  
+Takeaway-  
 ## Courses taking currently :
 Coursera >  
 **1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**
 Course link-https://www.coursera.org/learn/introduction-tensorflow  
 Skillshare >  
-**2. How to Learn: Strategies for Starting, Practicing & Mastering the Skills You’ve Always Wanted**  
-Course link-https://skl.sh/2xYtnO0  
-Takeaway-  
+
 **3. Launch Your Websites with Github Pages**  
 Course link-https://skl.sh/2V2xMIz  
 Takeaway-   
