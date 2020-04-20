@@ -29,3 +29,9 @@ Takeaway-
 
 ## Crash courses :
 **1. GitHub basics**  
+
+# Project Ideas  
+## Personal projects I may or may not pursue in the future  
+*Computer Vision*  
+*Robotics*  
+*Machine Learning*   
