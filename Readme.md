@@ -29,4 +29,5 @@ Takeaway-
 
 ## Crash courses :
 **1. GitHub basics**  
+**2. Git LFS**  
 
