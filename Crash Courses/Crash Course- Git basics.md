@@ -80,3 +80,5 @@ git remote
 * git remote add gitcv https://github.com/csingh27/ComputerVision.git  
 git remote  
 git push -u origin master  
+
+https://www.atlassian.com/git/tutorials/git-lfs
