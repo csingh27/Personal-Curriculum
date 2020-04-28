@@ -2,7 +2,9 @@
 
 ## Courses Taken :   
 Coursera >  
-**1. Robotics : Mobility**   
+**1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**
+Course link-https://www.coursera.org/learn/introduction-tensorflow  
+**2. Robotics : Mobility**   
 Course Link-https://www.coursera.org/learn/robotics-mobility/  
 Certificate-https://coursera.org/share/b813410fa3cc222c3eda41021389eed9  
 **2. Machine Learning**   
@@ -16,8 +18,8 @@ Course link-https://skl.sh/2xYtnO0
 Takeaway-  
 ## Courses taking currently :
 Coursera >  
-**1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**
-Course link-https://www.coursera.org/learn/introduction-tensorflow  
+**1. Convolutional Neural Networks in TensorFlow**
+Course link-https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/home/welcome 
 Skillshare >  
 
 **3. Launch Your Websites with Github Pages**  
