@@ -32,5 +32,5 @@ e.g. *rm file.txt*
 *rm -r* : remove a directory  
 
 **What is Git**  
-
+*Download "Skillshare Git Project.zip"  
 
