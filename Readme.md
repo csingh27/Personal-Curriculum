@@ -20,10 +20,17 @@ Takeaway-
 Course link-https://skl.sh/2VuPGTB  
 Takeaway-  
 ## Courses taking currently :
+N/A  
+## In the pipeline :  
 Coursera >  
 **1. Convolutional Neural Networks in TensorFlow**
 Course link-https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/home/welcome 
-Skillshare >    
-
+Takeaway-  
+**2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**  
+Course link-https://www.coursera.org/learn/deep-neural-network/home/welcome  
+Takeaway-  
+**3. Neural Networks and Deep Learning**  
+Course link-https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome  
+Takeaway- 
 ## Crash courses :
 
