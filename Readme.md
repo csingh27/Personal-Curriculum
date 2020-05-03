@@ -13,20 +13,21 @@ Certificate-https://coursera.org/share/246fddb02dde9c4b3eeba10fe6f8663f
 NPTEL >  
 **1. Mechanisms and Robot Kinematics**  
 Skillshare>  
-**2. How to Learn: Strategies for Starting, Practicing & Mastering the Skills You’ve Always Wanted**  
+**1. How to Learn: Strategies for Starting, Practicing & Mastering the Skills You’ve Always Wanted**  
 Course link-https://skl.sh/2xYtnO0  
+Takeaway-  
+**2. A beginner's introduction to Git and GitHub**   
+Course link-https://skl.sh/2VuPGTB  
 Takeaway-  
 ## Courses taking currently :
 Coursera >  
 **1. Convolutional Neural Networks in TensorFlow**
 Course link-https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/home/welcome 
 Skillshare >  
-**3. Launch Your Websites with Github Pages**  
+**2. Launch Your Websites with Github Pages**  
 Course link-https://skl.sh/2V2xMIz  
 Takeaway-   
-**4. A beginner's introduction to Git and GitHub**   
-Course link-https://skl.sh/2VuPGTB  
-Takeaway-   
+
 ## Crash courses :
 **1. GitHub basics**  
 **2. Git LFS**  
