@@ -2,7 +2,7 @@ Skillshare>
 **A beginner's introduction to Git and GitHub**  
 Summary>  
 
-**Setting Up Git**  
+**Setup**  
 
 *Mac* : 
 * Git is pre-installed
@@ -14,7 +14,7 @@ Summary>
 * Download the *.exe* file and install
 * Launch *GitBash* to use  
 
-**Introduction to Command Line**  
+**Command-Line**  
 *CLI* : Command Line Interface- faster and more efficient   
 *GUI* : Graphic User Interface  
 Basic commands :  
@@ -31,7 +31,7 @@ e.g. *rm file.txt*
 *mkdir* : creates a new folder  
 *rm -r* : remove a directory  
 
-**Git-Basics**  
+**Basics**  
 * Download "Skillshare Git Project.zip"  
 * Extract the zip file at a conventient location, say /Desktop/Skillshare Git Project  
 * Open Terminal at */Desktop/Skillshare Git Project/Skillshare Git Project*  
@@ -62,7 +62,16 @@ e.g. *rm file.txt*
   and press 'ENTER'  
 * Now type *vim file.txt*. You will notice that all changes were saved  
 * Now press *SHIFT*+':', type 'q!' to quit without saving  changes  
-* Type *vim file.txt* and you will notive that no changes were saved  
+* Type *vim file.txt* and you will notice that no changes were saved  
 
 **Commit**  
-* 
+* Open styles.css file and change the color in line #23 and save  
+* Open the index.html file in the browser and the color will now be purple  
+* Run *git status* or *git diff .* to see the changes made  
+* Use *git add .* to stage the changes  
+* Run *git status*  
+* If you make some changes to one of the files by mistake, you can restore it by *git checkout .* command  
+  It restores the version saved in the staging area  
+* You can play with the files in the working directory as there is always a functional version present in the staging area  
+* Type *git commit* to commit all the changes  
+* Type *I* to enter into Insert mode and Enter a description of the changes made in this commit  
