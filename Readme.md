@@ -33,5 +33,5 @@ Takeaway-
 Course link-https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome  
 Takeaway- 
 ## Crash courses :
-**1. Git Basics** [Incomplete]
+**1. Git Basics** [Incomplete]  
 **1. OpenCV Basics** [Incomplete]
