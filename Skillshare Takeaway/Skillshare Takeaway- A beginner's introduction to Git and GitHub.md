@@ -75,3 +75,39 @@ e.g. *rm file.txt*
 * You can play with the files in the working directory as there is always a functional version present in the staging area  
 * Type *git commit* to commit all the changes  
 * Type *I* to enter into Insert mode and Enter a description of the changes made in this commit  
+* Type *git log* to check the commit details  
+* Open the index.html from the working directory again,update the twitter and instagram links in line 19 and 22 and save    
+* Open index.html in the browser to check that the links are working  
+* Type *git status* to see the list of modified files and *git diff .* to see the modifications  
+* Type *git add index.html* to add the file to the staging area  
+* Type *git status -s* to check the modified files that are in the staging area  
+* To commit the file, type *git commit -m "Updated social media links"*  
+* To see the list of all commits in 1 line, type *git log --oneline*  
+
+**Branch**
+* Type *git branch* to check the name of the current branch  
+* Type *git branch new-branch* to create a new branch  
+* Type *git branch* again to see the name of the new branch in the list  
+* To delete a branch, type *git branch -d new-branch*  
+* Create a new branch using *git branch work-relayout*  
+* To move to the new branch, type *git checkout work-relayout*  
+* Open styles.css in the working directory and delete line no. 87. Also in line 100, set width to be 1005  
+* Type *git commit -a -m "Reworked layout"* to add the file to the staging area as well as to add a commit  
+* Type *git log --oneline* to check the lists of commits  
+* Check the list of branches using *git branch*  
+* To switch to master branch, type *git checkout master*  
+* Open the index.html file from the working directory. Everything is untouched.  
+* To merge the branch work-relayout with master, type *git merge work-relayout*
+* After merging it with master, the branch is useless. So delete it by *git branch -d work-relayout*  
+* Type *git branch* and you will notice that the branch "work-layout" no longer exists  
+* To create a new branch and also checkout to that branch simultaneously, type *git checkout -b new-branch*  
+* Merge conflict occurs when the same line of code is changed in two branches, e.g. new-branch and master
+* Git saves the changes from both the branches in the file  
+* To solve the merge conflicht, delete the line that you do not want to commit, and then commit the file    
+
+**Remote repositories**  
+* Git- Distributed Version Control System  
+* GitHub creates remote repositories of your project on the internet  
+* Create a repository on GitHub and create a remote link to the repository by typing *git remote add origin https://github.com/csingh27/csingh27.github.io.git*  
+* Type *git remote -v*  
+* Push your working directory to GitHub *git push -u origin master*  
