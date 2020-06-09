@@ -23,13 +23,16 @@ Takeaway-
 N/A  
 ## In the pipeline :  
 Coursera >  
-**1. Convolutional Neural Networks in TensorFlow**
+**1. Perform Real-Time Object Detection with YOLOv3**
+Course link- https://www.coursera.org/learn/real-time-object-detection-yolo/home/welcome
+Takeaway-
+**2. Convolutional Neural Networks in TensorFlow**
 Course link-https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/home/welcome 
 Takeaway-  
-**2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**  
+**3. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**  
 Course link-https://www.coursera.org/learn/deep-neural-network/home/welcome  
 Takeaway-  
-**3. Neural Networks and Deep Learning**  
+**4. Neural Networks and Deep Learning**  
 Course link-https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome  
 Takeaway- 
 ## Crash courses :
