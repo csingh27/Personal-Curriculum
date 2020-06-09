@@ -23,9 +23,9 @@ Takeaway-
 N/A  
 ## In the pipeline :  
 Coursera >  
-**1. Perform Real-Time Object Detection with YOLOv3**
-Course link- https://www.coursera.org/learn/real-time-object-detection-yolo/home/welcome
-Takeaway-
+**1. Perform Real-Time Object Detection with YOLOv3**  
+Course link- https://www.coursera.org/learn/real-time-object-detection-yolo/home/welcome  
+Takeaway-  
 **2. Convolutional Neural Networks in TensorFlow**
 Course link-https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/home/welcome 
 Takeaway-  
