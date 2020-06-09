@@ -40,3 +40,6 @@ Takeaway-
 **1. OpenCV Basics** [Incomplete]
 ## Research Paper summaries :  
 **  
+## Conferences :  
+**1. Machines Can See 2020 : http://machinescansee.com**  
+**2. ICRA 2020 : https://www.icra2020.org/**  
