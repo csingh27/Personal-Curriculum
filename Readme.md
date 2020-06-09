@@ -38,3 +38,5 @@ Takeaway-
 ## Crash courses :
 **1. Git Basics** [Incomplete]  
 **1. OpenCV Basics** [Incomplete]
+## Research Paper summaries :  
+**  
