@@ -1,5 +1,4 @@
-**Center-of-Mass-based Robust Grasp Planning for Unknown Objects
-Using Tactile-Visual Sensors**  
+**Grasp It like a Pro: Grasp of Unknown Objects withRobotic Hands based on Skilled Human Expertise**  
 
 **TASK DEFINITION**  
 
