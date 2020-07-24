@@ -7,7 +7,7 @@
 * Deep Learning - Ian Goodfellow  
 * Introduction to Linear Algebra - Gilbert Strang  
 * Bayesian Brain: Probabilistic Approaches to Neural Coding - Kenji Doya, Shin Ishii, Alexandre Pouget  
-* Nonlinear dynamics and Chaos - Steven Strogatz
+* Nonlinear dynamics and Chaos - Steven Strogatz  
 **Johannes Nakayama**  
 *To be updated*  
 **Abhimanyu Singh Bhakuni**  
