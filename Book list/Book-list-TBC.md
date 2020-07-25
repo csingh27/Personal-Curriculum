@@ -25,10 +25,13 @@ https://youtu.be/MrS32FeobLc
 https://youtu.be/VLRzNmotjAA  
 * Steve Jobs - Walter Isaacson  
 * The Design of Everday Things - Don Norman  
-**UPCOMING GUESTS** : 
+
+**UPCOMING GUESTS** :  
 *AUGUST*  
 * Julio Sevarolli - Programming - Facebook | Machine Learning | Hustle (https://www.linkedin.com/in/julio-sevarolli-7a7800136/)  
+
 *SEPTEMBER*  
 * Ruslan Goryanny - Startups - NevisQ | AC.E | beeAzubi (https://www.linkedin.com/in/ruslan-goryanyy-b39484112/)  
+
 *OCTOBER*  
 * Fabio La Verghetta - Entrepreneurship (https://www.linkedin.com/in/fabio-la-verghetta-4b5705175/)  
