@@ -27,7 +27,13 @@ https://youtu.be/VLRzNmotjAA
 * Steve Jobs - Walter Isaacson  
 * The Design of Everday Things - Don Norman  
 
+**Werner Ulbts - Entrepreneurship- Job Disruption | Artificial Intelligence | Startups** (https://www.linkedin.com/in/werner-ulbts/)  
+https://youtu.be/9iv7sUUJSR4  
+*Book recommendations*  
+* Peter Thiel - Zero to One  
+
 **UPCOMING GUESTS** :  
+
 *AUGUST*  
 * Julio Sevarolli - Programming - Facebook | Machine Learning | Hustle (https://www.linkedin.com/in/julio-sevarolli-7a7800136/)  
 
