@@ -23,6 +23,7 @@ https://youtu.be/MrS32FeobLc
 
 **Abhimanyu Singh Bhakuni- Mechanical Design- Miso Robotics | MIT | NSIT** (https://www.linkedin.com/in/abhimanyubhakuni/)  
 https://youtu.be/VLRzNmotjAA  
+*Book recommendations*  
 * Steve Jobs - Walter Isaacson  
 * The Design of Everday Things - Don Norman  
 
