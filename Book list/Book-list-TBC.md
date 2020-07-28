@@ -1,3 +1,20 @@
+**Abhimanyu Singh Bhakuni- Mechanical Design- Miso Robotics | MIT | NSIT** (https://www.linkedin.com/in/abhimanyubhakuni/)  
+https://youtu.be/VLRzNmotjAA  
+*Book recommendations*  
+* Steve Jobs - Walter Isaacson  
+* The Design of Everday Things - Don Norman  
+
+**Werner Ulbts - Entrepreneurship- Job Disruption | Artificial Intelligence | Startups** (https://www.linkedin.com/in/werner-ulbts/)  
+https://youtu.be/9iv7sUUJSR4  
+*Book recommendations*  
+* Peter Thiel - Zero to One  
+
+**Johannes Nakayama- Data Science - Research | Programming | Communication** (https://www.xing.com/profile/Johannes_Nakayama)  
+https://youtu.be/MrS32FeobLc  
+*Book recommendations*  
+* Daily Rituals: How Artists Work - Mason Currey  
+* Mastery - George Leonard  
+
 **Dr. Claudio Zito- Robotics - ARRC | Uni of Birmingham | Intelligent Robotics Lab** (https://www.linkedin.com/in/claudiozito/)  
 Part 1 : https://youtu.be/EXtc0eVmo7U  
 Part 2.1 : https://youtu.be/zXwm_JjhFlk  
@@ -15,23 +32,6 @@ Part 3 : https://youtu.be/VUY1eFkRvMc
 * Bayesian Brain: Probabilistic Approaches to Neural Coding - Kenji Doya, Shin Ishii, Alexandre Pouget  
 * Nonlinear dynamics and Chaos - Steven Strogatz  
 
-**Johannes Nakayama- Data Science - Research | Programming | Communication** (https://www.xing.com/profile/Johannes_Nakayama)  
-https://youtu.be/MrS32FeobLc  
-*Book recommendations*  
-* Daily Rituals: How Artists Work - Mason Currey  
-* Mastery - George Leonard  
-
-**Abhimanyu Singh Bhakuni- Mechanical Design- Miso Robotics | MIT | NSIT** (https://www.linkedin.com/in/abhimanyubhakuni/)  
-https://youtu.be/VLRzNmotjAA  
-*Book recommendations*  
-* Steve Jobs - Walter Isaacson  
-* The Design of Everday Things - Don Norman  
-
-**Werner Ulbts - Entrepreneurship- Job Disruption | Artificial Intelligence | Startups** (https://www.linkedin.com/in/werner-ulbts/)  
-https://youtu.be/9iv7sUUJSR4  
-*Book recommendations*  
-* Peter Thiel - Zero to One  
-
 **UPCOMING GUESTS** :  
 
 *AUGUST*  
@@ -42,3 +42,6 @@ https://youtu.be/9iv7sUUJSR4
 
 *OCTOBER*  
 * Fabio La Verghetta - Entrepreneurship (https://www.linkedin.com/in/fabio-la-verghetta-4b5705175/)  
+
+*NOVEMBER*  
+* Mateusz Sadowski - Robotics - Drone | Freelancing | Online Business (https://www.linkedin.com/in/mateuszsadowski/)  
