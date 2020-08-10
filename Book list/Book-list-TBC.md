@@ -45,3 +45,6 @@ Part 3 : https://youtu.be/VUY1eFkRvMc
 
 *NOVEMBER*  
 * Mateusz Sadowski - Robotics - Drone | Freelancing | Online Business (https://www.linkedin.com/in/mateuszsadowski/)  
+
+*DECEMBER*  
+* Jonas Zagatta - Entrepreneurship - S O Nah | Robotics | Management (https://zagatta.github.io/)  
