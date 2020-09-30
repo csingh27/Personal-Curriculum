@@ -50,7 +50,7 @@ TO BE UPDATED
 Part 1 : https://youtu.be/5xNxZOCSCsc  
 Part 2.1 : https://youtu.be/7k8kv-wLNio  
 Part 2.2 : https://youtu.be/TX31iH3JuJ4  
-Part 3 : https://youtu.be/GjPI2nrgebg
+Part 3 : https://youtu.be/GjPI2nrgebg  
 *Book recommendations*  
 TO BE UPDATED
 
