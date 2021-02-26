@@ -20,7 +20,9 @@ Takeaway-
 Course link-https://skl.sh/2VuPGTB  
 Takeaway-  
 ## Courses taking currently :
-N/A  
+**Modern Reinforcement Learning: Actor-Critic Algorithms**  
+Course link-https://www.udemy.com/course/actor-critic-methods-from-paper-to-code-with-pytorch/  
+Takeaway-  
 ## In the pipeline :  
 Coursera >  
 **1. Perform Real-Time Object Detection with YOLOv3**  
