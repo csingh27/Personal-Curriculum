@@ -41,7 +41,7 @@ Takeaway-
 **1. Git Basics** [Incomplete]  
 **1. OpenCV Basics** [Incomplete]
 ## Research Paper summaries :  
-**  
+**  https://github.com/csingh27/Personal-Curriculum/blob/master/Research%20Paper%20Summaries/Paper-progress.md  
 ## Conferences :  
 **1. Machines Can See 2020 : http://machinescansee.com**  
 **2. ICRA 2020 : https://www.icra2020.org/**  
